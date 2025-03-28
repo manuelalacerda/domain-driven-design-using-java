@@ -6,7 +6,7 @@ public class ArCondicionado {
     public String modo;
 
     //Metodos
-    public void aumentaTemperatura(){temperatura++;}
-    public void diminuirTemperatura(){temperatura--;}
-    public void trocarModo(String novoModo){modo = novoModo;}
+    public void AumentaTemperatura(){temperatura++;}
+    public void DiminuirTemperatura(){temperatura--;}
+    public void trocarModo (String novoModo){modo = novoModo;}
 }
